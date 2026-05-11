@@ -4,4 +4,4 @@ RFDocs é a documentação de um projeto de jogo sobre cidadania fiscal realizad
 
 O objetivo desse site é unificar todo tipo de documentação relacionada com o projeto e servir como material de apoio e consulta para os envolvidos no projeto.
 
-Atualmente, a documentação conta apenas com o Guia do Programador, [acesse aqui](/docs/Guia%20do%20Programador/).
+Atualmente, a documentação conta apenas com o Guia do Programador, [acesse aqui](/docs/Manual%20do%20Programador/)
